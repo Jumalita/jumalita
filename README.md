@@ -2,8 +2,11 @@
 
 <div align="center">
 
+  <img src="https://raw.githubusercontent.com/jumalita/jumalita/main/decoration.png" width="100%"> 
+  <br />
+  <br />
+  
   <img src="https://raw.githubusercontent.com/jumalita/jumalita/main/profile.jpg" width="20%"> 
-
 
   <h3 align="center"> :sunflower:  Welcome to my Github :sunflower:  </h3>
 
@@ -18,6 +21,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a-->
   </p>
   
+  <img src="https://raw.githubusercontent.com/jumalita/jumalita/main/decoration.png" width="100%"> 
 </div>
 
 
