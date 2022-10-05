@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/jumalita/jumalita/main/20220124_171349.jpg" width="20%"> 
+  <img src="https://raw.githubusercontent.com/jumalita/jumalita/main/profile.jpg" width="20%"> 
 
 
   <h3 align="center"> ⭐ Welcome to my Github ⭐ </h3>
