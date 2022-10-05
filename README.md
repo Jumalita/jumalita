@@ -4,9 +4,10 @@
   <br />
   
   <h3 align="center"> 
-  Welcome to my Github  
+  :crown:
   </br>
-  :blossom:
+  Welcome to my Github  
+
   </h3>
   
   <p align="center">
