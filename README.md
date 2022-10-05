@@ -1,9 +1,11 @@
+
+
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/jumalita/jumalita/main/profile.jpg" width="20%"> 
 
 
-  <h3 align="center"> ⭐ Welcome to my Github ⭐ </h3>
+  <h3 align="center"> :sunflower:  Welcome to my Github :sunflower:  </h3>
 
   <p align="center">
     I am Judit a Software Engineer currently pursuing a Data Science master's degree.
@@ -15,4 +17,7 @@
     <!--·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a-->
   </p>
+  
 </div>
+
+
