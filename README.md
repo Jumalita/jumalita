@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/jumalita/jumalita/main/decoration.png" width="100%"> 
+  <img src="https://raw.githubusercontent.com/jumalita/jumalita/main/decoration_header_footer.png" width="100%"> 
   <br />
   <br />
   
@@ -21,7 +21,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a-->
   </p>
   
-  <img src="https://raw.githubusercontent.com/jumalita/jumalita/main/decoration.png" width="100%"> 
+  <img src="https://raw.githubusercontent.com/jumalita/jumalita/main/decoration_header_footer.png" width="100%"> 
 </div>
 
 
