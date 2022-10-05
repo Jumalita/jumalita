@@ -8,7 +8,7 @@
   <h3 align="center"> :sunflower:  Welcome to my Github :sunflower:  </h3>
 
   <p align="center">
-    I am Judit a Software Engineer currently pursuing a Data Science master's degree.
+    I am Judit, a Software Engineer currently pursuing a Data Science master's degree.
     <br />
     <br />
     <a href="https://www.linkedin.com/in/judit-quintana-massana-8739231ba/">Linked In</a>
